@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown 链接检查"
+  short_description: "用 lychee 检查 Markdown 链接并区分失效与网络错误"
+  default_prompt: "使用 $markdown-link-check 检查当前项目的 Markdown 链接。"
